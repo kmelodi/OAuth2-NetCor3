@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth2NetCore3", "OAuth2NetCore3\OAuth2NetCore3.csproj", "{81AE808F-4E07-4060-83E5-FD0D9DA22B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth2NetCore3.Model", "OAuth2NetCore3.Model\OAuth2NetCore3.Model.csproj", "{63657EA9-E7E8-469D-9493-8E26BB506032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AE808F-4E07-4060-83E5-FD0D9DA22B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AE808F-4E07-4060-83E5-FD0D9DA22B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AE808F-4E07-4060-83E5-FD0D9DA22B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AE808F-4E07-4060-83E5-FD0D9DA22B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63657EA9-E7E8-469D-9493-8E26BB506032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63657EA9-E7E8-469D-9493-8E26BB506032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63657EA9-E7E8-469D-9493-8E26BB506032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63657EA9-E7E8-469D-9493-8E26BB506032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D05A426C-A776-4673-B476-920A626FFD78}
+	EndGlobalSection
+EndGlobal
